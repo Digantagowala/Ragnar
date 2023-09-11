@@ -1,2 +1,2 @@
 # Ragnar
-This is a demo for Git &amp; Github class.
+This is a Basic calculator for Check functional JS ability.
